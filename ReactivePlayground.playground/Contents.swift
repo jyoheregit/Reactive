@@ -38,4 +38,5 @@ var anotherObservable : Observable<Int> = Observable.create { (observer) -> Disp
 
 anotherObservable.subscribe {
     print($0.element ?? $0)
-}
+}.dispose()
+
