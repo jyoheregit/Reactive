@@ -27,6 +27,7 @@
 		B1724416218B41D7004AFF42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B172441C218B41FF004AFF42 /* ReactivePlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = ReactivePlayground.playground; path = ../ReactivePlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B172441D218B4767004AFF42 /* ReactivePlayground1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = ReactivePlayground1.playground; path = ../ReactivePlayground1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B172441E218C3410004AFF42 /* ReactivePlayground2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = ReactivePlayground2.playground; path = ../ReactivePlayground2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D82B77DEAB6894C6043FDEC6 /* Pods_Reactive.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Reactive.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -54,6 +55,7 @@
 		B17243FE218B41D6004AFF42 = {
 			isa = PBXGroup;
 			children = (
+				B172441E218C3410004AFF42 /* ReactivePlayground2.playground */,
 				B172441D218B4767004AFF42 /* ReactivePlayground1.playground */,
 				B172441C218B41FF004AFF42 /* ReactivePlayground.playground */,
 				B1724409218B41D6004AFF42 /* Reactive */,
